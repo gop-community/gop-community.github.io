@@ -1,3 +1,44 @@
 body {
-    margin-top: 70px;
+    margin-top: 50px;
+}
+
+.container-wrapper-blue {
+    color: white;
+    background-color: #34495E;
+}
+
+.container-wrapper-red {
+    color: white;
+    background-color: #E74C3C;
+}
+
+.container-wrapper-green {
+    color: white;
+    background-color: #45B29D;
+}
+
+.feature {
+    text-align: center;
+    padding-top: 3em;
+    padding-bottom: 2em;
+}
+
+.title {
+    font-size: 3em;
+}
+
+li.active > a.menu-blue {
+    background-color: #34495E !important;
+}
+
+li.active > a.menu-red {
+    background-color: #E74C3C !important;
+}
+
+li.active > a.menu-green {
+    background-color: #45B29D !important;
+}
+
+.navbar.navbar-inverse {
+    border: 0;
 }
