@@ -37,4 +37,6 @@ var initMenus = function() {
 document.addEventListener("DOMContentLoaded", function(event) {
     initMenus();
     displayPage('accueil');
+    var easter_egg = new Konami();
+    easter_egg.load('http://gop-labs.xyz');
 });
