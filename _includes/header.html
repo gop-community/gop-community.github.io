@@ -1,0 +1,45 @@
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="index.html">GOP-Community</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+                {% assign pages = site.pages | sort:"weight"  %}
+                {% for node in pages %}
+                    {% if (node.title != '') %}
+                        {% assign icon = '' %}
+                        {% if (node.icon != '') %}
+                            {% capture icon %}<i class="fa {{node.icon}}"></i> {% endcapture %}
+                        {% endif %}
+
+                        {% assign className = '' %}
+                        {% assign classMenu = '' %}
+                        {% if page.url == node.url %}
+                            {% assign className = 'active' %}
+                            {% if (node.menuClass != '') %}
+                                {% assign classMenu = node.menuClass %}
+                            {% endif %}
+                        {% endif %}
+
+                        {% if page.url == node.url %}
+                            {% assign className = 'active' %}
+                        {% endif %}
+                <li class="{{className}}"><a href="{{node.url}}" class="{{classMenu}}">{{icon}}{{node.title}}</a></li>
+                    {% endif %}
+                {% endfor %}
+
+                <!--<li><a href="/index.html" class="menu-blue"><i class="fa fa-home"></i>&nbsp;Accueil</a></li>-->
+                <!--<li><a href="/gop-labs.html" class="menu-red"><i class="fa fa-flask"></i>&nbsp;GOP-Labs</a></li>-->
+                <!--<li><a href="/evenements.html" class="menu-green"><i class="fa fa-calendar"></i>&nbsp;Évènements</a></li>-->
+                <!--<li><a href="/blog" class="menu-gray"><i class="fa fa-pencil"></i>&nbsp;Blog</a></li>-->
+            </ul>
+        </div><!--/.nav-collapse -->
+    </div>
+</nav>
