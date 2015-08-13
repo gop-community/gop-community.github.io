@@ -17,6 +17,11 @@ body {
     background-color: #45B29D;
 }
 
+.container-wrapper-gray {
+    color: white;
+    background-color: #839495;
+}
+
 .feature {
     text-align: center;
     padding-top: 3em;
@@ -37,6 +42,10 @@ li.active > a.menu-red {
 
 li.active > a.menu-green {
     background-color: #45B29D !important;
+}
+
+li.active > a.menu-gray {
+    background-color: #839495 !important;
 }
 
 .navbar.navbar-inverse {

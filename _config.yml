@@ -1,0 +1,9 @@
+paginate: 5
+paginate_path: "/blog/page:num/"
+navigation:
+- text: Accueil
+  url: /
+- text: GOP Labs
+  url: /gop-labs
+- text: Evènements
+  url: /events

@@ -1,208 +1,72 @@
-<!DOCTYPE html>
-<html lang="fr">
+---
+layout: default
+title: Accueil
+icon: fa-home
+menuClass: menu-blue
+weight: 0
+---
 
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="Le site web de la GOP-Community">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <title>GOP-Community</title>
-
-    <!-- Bootstrap -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
-
-    <!-- Font-Awesome -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
-
-    <!-- Custom -->
-    <link rel="stylesheet" href="styles.css">
-    
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    
-      ga('create', 'UA-59793334-1', 'auto');
-      ga('send', 'pageview');
-    </script>
-    
-  </head>
-
-  <body role="document">
-
-    <nav class="navbar navbar-inverse navbar-fixed-top">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="index.html">GOP-Community</a>
-        </div>
-        <div id="navbar" class="collapse navbar-collapse">
-          <ul class="nav navbar-nav">
-            <li><a href="accueil" class="menu-blue"><i class="fa fa-home"></i>&nbsp;Accueil</a></li>
-            <li><a href="gop-labs" class="menu-red"><i class="fa fa-flask"></i>&nbsp;GOP-Labs</a></li>
-            <li><a href="evenements" class="menu-green"><i class="fa fa-calendar"></i>&nbsp;Évènements</a></li>
-          </ul>
-        </div><!--/.nav-collapse -->
+<section id="accueil" name="page">
+  <div class="container-wrapper-blue">
+    <div class="container">
+      <div class="feature">
+        <h2 class="title">Qu'est-ce que c'est ?</h2>
+        <p class="lead">
+          <strong>GOP-Community</strong> est un ensemble d'initiatives visant à améliorer le quotidien des
+          collaborateurs GOP. Celles-ci reposent sur la mise en avant de valeurs humaines dans la pratique
+          de nos métiers.
+        </p>
       </div>
-    </nav>
-
-    <!-- accueil -->
-    <section id="accueil" name="page">
-      <div class="container-wrapper-blue">
-        <div class="container">
-          <div class="feature">
-            <h2 class="title">Qu'est-ce que c'est ?</h2>
-            <p class="lead">
-              <strong>GOP-Community</strong> est un ensemble d'initiatives visant à améliorer le quotidien des
-              collaborateurs GOP. Celles-ci reposent sur la mise en avant de valeurs humaines dans la pratique
-              de nos métiers.
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="container">
-        <div class="feature">
-          <h2 class="title">Valeurs et objectifs</h2>
-          <p class="lead">
-            Les actions de la GOP-Community sont menées avec pour mots d'ordre <strong>bienveillance</strong> et
-            <strong>humilité</strong>, pour permettre d'atteindre les objectifs suivants :
+    </div>
+  </div>
+  <div class="container">
+    <div class="feature">
+      <h2 class="title">Valeurs et objectifs</h2>
+      <p class="lead">
+        Les actions de la GOP-Community sont menées avec pour mots d'ordre <strong>bienveillance</strong> et
+        <strong>humilité</strong>, pour permettre d'atteindre les objectifs suivants :
+      </p>
+      <div class="row">
+        <div class="col-md-4">
+          <p>
+            <i class="fa fa-group fa-5x"></i>
           </p>
-          <div class="row">
-            <div class="col-md-4">
-              <p>
-                <i class="fa fa-group fa-5x"></i>
-              </p>
-              <h2>Partager</h2>
-              <p class="lead">
-                nos idées et nos savoirs en se <strong>rassemblant</strong> en ligne ou lors d'évènements.
-              </p>
-            </div>
-            <div class="col-md-4">
-              <p>
-                <i class="fa fa-university fa-5x"></i>
-              </p>
-              <h2>S'élever</h2>
-              <p class="lead">
-                dans nos compétences en apprenant et en <strong>collaborant</strong> sur des projets communs.
-              </p>
-            </div>
-            <div class="col-md-4">
-              <p>
-                <i class="fa fa-share-alt fa-5x"></i>
-              </p>
-              <h2>Se diversifier</h2>
-              <p class="lead">
-                en explorant de nouveaux horizons, en <strong>expérimentant</strong> des domaines nouveaux.
-              </p>
-            </div>
-          </div>
-        </div>
-        <hr/>
-        <div class="feature">
-          <h2 class="title">Rejoignez-nous !</h2>
+          <h2>Partager</h2>
           <p class="lead">
-            La GOP-Community, vous en faites partie ! Alors n'hésitez pas à partager vos idées, faire entendre votre voix
-            et contribuer aux projets en cours !
+            nos idées et nos savoirs en se <strong>rassemblant</strong> en ligne ou lors d'évènements.
           </p>
+        </div>
+        <div class="col-md-4">
+          <p>
+            <i class="fa fa-university fa-5x"></i>
+          </p>
+          <h2>S'élever</h2>
           <p class="lead">
-            L'équipe de la GOP-Community est joignable sur <strong><a href="mailto:contact@gop-community.org">contact@gop-community.org</a></strong>, ainsi que sur le channel IRC <a href="http://webchat.freenode.net/?channels=#gop-community" title="Webclient IRC">#gop-community</a> sur le réseau Freenode.
+            dans nos compétences en apprenant et en <strong>collaborant</strong> sur des projets communs.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <p>
+            <i class="fa fa-share-alt fa-5x"></i>
+          </p>
+          <h2>Se diversifier</h2>
+          <p class="lead">
+            en explorant de nouveaux horizons, en <strong>expérimentant</strong> des domaines nouveaux.
           </p>
         </div>
       </div>
-    </section>
+    </div>
+    <hr/>
+    <div class="feature">
+      <h2 class="title">Rejoignez-nous !</h2>
+      <p class="lead">
+        La GOP-Community, vous en faites partie ! Alors n'hésitez pas à partager vos idées, faire entendre votre voix
+        et contribuer aux projets en cours !
+      </p>
+      <p class="lead">
+        L'équipe de la GOP-Community est joignable sur <strong><a href="mailto:contact@gop-community.org">contact@gop-community.org</a></strong>, ainsi que sur le channel IRC <a href="http://webchat.freenode.net/?channels=#gop-community" title="Webclient IRC">#gop-community</a> sur le réseau Freenode.
+      </p>
+    </div>
+  </div>
+</section>
 
-    <!-- gop-labs -->
-    <section id="gop-labs" name="page">
-      <div class="container-wrapper-red">
-        <div class="container">
-          <div class="feature">
-            <h2 class="title">GOP-Labs</h2>
-            <p class="lead">
-              <strong>GOP-Labs</strong> est la partie R&D des initiatives de la <em>GOP-Community</em>. Sa vocation principale est de fournir un socle technique et une assistance pour les idées de projets qui en émanent.
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="container">
-        <div class="feature">
-          <h2 class="title">Venez expérimenter !</h2>
-          <p class="lead">
-            GOP-Labs est présent sur <a href="https://trello.com/b/akmEFZWu/gop-labs">Trello</a>,
-            <a href="http://webchat.freenode.net/?channels=#gop-labs" title="Webclient IRC">IRC</a>,
-            <a href="https://github.com/gop-labs">GitHub</a>, et <a href="https://gitter.im/gop-labs">Gitter</a>.
-            Rejoignez-nous dans de nombreux projets :
-          </p>
-          <div class="row">
-            <div class="col-md-4">
-              <p>
-                <i class="fa fa-terminal fa-5x"></i>
-              </p>
-              <h2>Les projets bac à sable</h2>
-              <p class="lead">
-                ou <em>sandbox</em>, dont le seul but est de jouer avec une technologie pour mieux la comprendre.
-              </p>
-            </div>
-            <div class="col-md-4">
-              <p>
-                <i class="fa fa-shield fa-5x"></i>
-              </p>
-              <h2>Les <em>proofs of concept</em></h2>
-              <p class="lead">
-                ont pour rôle d'obtenir des résultats avant de prolonger le développement d'une solution.
-              </p>
-            </div>
-            <div class="col-md-4">
-              <p>
-                <i class="fa fa-cubes fa-5x"></i>
-              </p>
-              <h2>Les projets dits <em>fil rouge</em></h2>
-              <p class="lead">
-                sont ceux dont la réalisation dépasse le cadre de la passion et du temps libre, mais dont l'intérêt et
-                la valeur ajoutée sont tangibles et méritent d'y accorder de l'attention et des ressources.
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- evenements -->
-    <section id="evenements" name="page">
-      <div class="container-wrapper-green">
-        <div class="container">
-          <div class="feature">
-            <h2 class="title">Évènements GOP</h2>
-            <p class="lead">
-              Les conférences, présentations et apéros seront prochainement listés ici. <em>Restez à l'écoute ! :)</em>
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="container">
-        <div class="feature">
-          <h2 class="title">Évènements externes</h2>
-          <iframe src="https://www.google.com/calendar/embed?src=9a2grgmev2at32olltc653imhs%40group.calendar.google.com&ctz=Europe/Paris"
-                  style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-        </div>
-      </div>
-    </section>
-
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
-
-    <!-- Bootstrap -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
-
-    <!-- Custom -->
-    <script type="text/javascript" src="konami.js"></script>
-    <script type="text/javascript" src="main.js"></script>
-
-  </body>
-</html>
