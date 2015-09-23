@@ -8,73 +8,71 @@ Bonjour,
 La rentrée est déjà bien entamée, et les activités reprennent de plus belle !
 
 SOMMAIRE
---------
+========
 1. Sponsoring
 2. Evènements à venir
 3. Nouveau blog GOP-Community
 4. Affichages dans les locaux de Pessac
 
 
-1. Sponsoring
+1) Sponsoring
 -------------
 
 Après s'être porté sponsor d'un périple Bordeaux-Lacanau en trottinette,
-dont vous avez peut être entendu parler sur les réseaux sociaux ( http://bit.ly/1KtaKxV ),
+dont vous avez peut être entendu parler sur les réseaux sociaux (http://bit.ly/1KtaKxV),
 GOP sera cette année sponsor d'évènements bordelais qui pourront intéresser 
 l'ensemble des équipes du CDS, avec l'Agile Tour fin octobre, et BDX.IO mi-octobre,
 qui cible principalement les développeurs.
 
 
-2. Evènements à venir
+2) Evènements à venir
 ---------------------
 
 - 24 Septembre - 19h @ ENSEIRB
 
   __Conférence "Asciidoctor RTFM"__
   
-  Organisée par BordeauxJUG, cette conférence devrait être comme à l'accoutumée précédée de l'actualité Java, et suivie d'un buffet (gratuit)
-  http://www.meetup.com/fr/BordeauxJUG/events/225140026/
+  Organisée par BordeauxJUG, cette conférence devrait être comme à l'accoutumée précédée de l'actualité Java, et suivie d'un [buffet](http://www.meetup.com/fr/BordeauxJUG/events/225140026/) (gratuit)
 
 - 28 Septembre - 04h @ Ciel sud-ouest ?
 
   __Eclipse de lune ET "Superlune"__
   
-  Pour les couche-tard, ou les lève-tôt, la prochaine éclipse de ce type aura lieu en 2033
-  http://hitek.fr/actualite/super-lune-eclipse-28-septembre_7098
+  Pour les couche-tard, ou les lève-tôt, la prochaine éclipse de ce type [aura lieu en 2033](http://hitek.fr/actualite/super-lune-eclipse-28-septembre_7098)
 
 - 2 au 4 Octobre @ Pyrénées
 
   __Week end "GOP à la montagne" !__
   
   Actuellement 23 personnes sont inscrites, il reste donc encore de la place. Les personnes intéressées peuvent se rapprocher de N. Moknine pour l'organisation.
-  http://www.leschaletsdelaforetdissaux.com/
+  [http://www.leschaletsdelaforetdissaux.com/](http://www.leschaletsdelaforetdissaux.com/)
 
 - 16 Octobre - Journée entière @ ENSEIRB
 
   __BDX.IO__
 
-  Le programme est dévoilé depuis peu, et __des places sont disponibles__ pour les employés GOP intéressés (renseignements auprès de la Direction)
-  Programme en détail : http://app.voxxr.in/#!dayschedule~bdxio15~bdxio15-0
-  http://www.bdx.io/
+  Le programme est dévoilé depuis peu, et __des places sont disponibles__ pour les employés GOP intéressés (renseignements auprès de la Direction). [Retrouvez le programme en détail](http://app.voxxr.in/#!dayschedule~bdxio15~bdxio15-0)
+  
+  [http://www.bdx.io/](http://www.bdx.io/)
 
 - 30 et 31 octobre @ Epitech Bordeaux
 
   __Agile Tour__
   
   Un évènement incontournable, pour découvrir les pratiques agiles ou partager son expérience. D'autant plus qu'il est gratuit !
-  http://agiletourbordeaux.fr/
+  [http://agiletourbordeaux.fr/](http://agiletourbordeaux.fr/)
 
 
-3. Nouveau blog GOP-Community !
+3) Nouveau blog GOP-Community !
 -------------------------------
 
-Vous pouvez retrouver cette newsletter sur le blog, en guise d'inauguration : 
-http://gop-community.org/blog/
+Vous pouvez retrouver cette newsletter [sur le blog](http://gop-community.org/blog/), en guise d'inauguration.
+
 Celui-ci contiendra prochainement, entre autres, des articles sur les projets en cours au sein
 des "gop-labs", et le matériel disponible dans la Salle Informatique, à l'étage.
 
 
-4. Affichages dans les locaux de Pessac
+4) Affichages dans les locaux de Pessac
 ---------------------------------------
 
 Comme vous avez dû le constater, un affichage a été mis en place dans la salle de repas,
