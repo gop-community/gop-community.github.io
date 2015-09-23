@@ -24,30 +24,37 @@ qui cible principalement les développeurs.
 
 - 24 Septembre - 19h @ ENSEIRB
 
-  Conférence "Asciidoctor RTFM" 
+  __Conférence "Asciidoctor RTFM"__
+  
   Organisée par BordeauxJUG, cette conférence devrait être comme à l'accoutumée précédée de l'actualité Java, et suivie d'un buffet (gratuit)
   http://www.meetup.com/fr/BordeauxJUG/events/225140026/
 
 - 28 Septembre - 04h @ Ciel sud-ouest ?
 
-  Eclipse de lune ET "Superlune"
+  __Eclipse de lune ET "Superlune"__
+  
   Pour les couche-tard, ou les lève-tôt, la prochaine éclipse de ce type aura lieu en 2033
   http://hitek.fr/actualite/super-lune-eclipse-28-septembre_7098
 
 - 2 au 4 Octobre @ Pyrénées
 
-  Week end "GOP à la montagne" !
+  __Week end "GOP à la montagne" !__
+  
   Actuellement 23 personnes sont inscrites, il reste donc encore de la place. Les personnes intéressées peuvent se rapprocher de N. Moknine pour l'organisation.
   http://www.leschaletsdelaforetdissaux.com/
 
 - 16 Octobre - Journée entière @ ENSEIRB
-  BDX.IO :
-  Le programme est dévoilé depuis peu, et des places sont disponibles pour les employés GOP intéressés (renseignements auprès de la Direction)
+
+  __BDX.IO__
+
+  Le programme est dévoilé depuis peu, et __des places sont disponibles__ pour les employés GOP intéressés (renseignements auprès de la Direction)
   Programme en détail : http://app.voxxr.in/#!dayschedule~bdxio15~bdxio15-0
   http://www.bdx.io/
 
 - 30 et 31 octobre @ Epitech Bordeaux
-  Agile Tour : 
+
+  __Agile Tour__
+  
   Un évènement incontournable, pour découvrir les pratiques agiles ou partager son expérience. D'autant plus qu'il est gratuit !
   http://agiletourbordeaux.fr/
 
