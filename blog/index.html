@@ -8,9 +8,6 @@ weight: 3
 <div class="container">
     <div class="row">
         <div class="col-md-10 col-md-offset-1">
-        {% if site.posts | size == 0 %}
-            <h2>Il n'y a pas encore d'article, revenez plus tard ! :)</h2>
-        {% else %}
             {% for post in paginator.posts %}
             <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
             <p>
@@ -41,7 +38,6 @@ weight: 3
                 {{ post.txt }}
             </div>
             {% endfor %}
-        {% endif %}
 
             <!-- Pagination links -->
             {% if paginator.total_pages > 1 %}
