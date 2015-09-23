@@ -1,3 +1,9 @@
+---
+layout: default
+title: Newsletter Septembre 2015
+---
+
+
 Bonjour,
 La rentrée est déjà bien entamée, et les activités reprennent de plus belle !
 
